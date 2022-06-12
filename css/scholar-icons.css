@@ -44,68 +44,95 @@
 .si-10x { font-size: 10em; }
 
 .si-acm:before {
-    content: "\e900";
+  content: "\e900";
 }
 .si-arxiv:before {
-content: "\e901";
+  content: "\e901";
+}
+.si-crossref:before {
+  content: "\e902";
 }
 .si-devto:before {
-content: "\e902";
+  content: "\e903";
+}
+.si-doi:before {
+  content: "\e904";
+}
+.si-facebook:before {
+  content: "\e905";
 }
 .si-github:before {
-content: "\e903";
+  content: "\e906";
 }
 .si-google-scholar:before {
-content: "\e904";
+  content: "\e907";
 }
 .si-ieee:before {
-content: "\e905";
+  content: "\e908";
 }
 .si-ieee-alt:before {
-content: "\e906";
+  content: "\e909";
 }
 .si-kaggle:before {
-content: "\e907";
+  content: "\e90a";
+}
+.si-kaggle-alt:before {
+  content: "\e90b";
 }
 .si-keras:before {
-content: "\e908";
+  content: "\e90c";
 }
 .si-linkedin:before {
-content: "\e909";
+  content: "\e90d";
 }
 .si-medium:before {
-content: "\e90a";
+  content: "\e90e";
 }
 .si-numpy:before {
-content: "\e90b";
+  content: "\e90f";
 }
 .si-opencv:before {
-content: "\e90c";
+  content: "\e910";
 }
 .si-orcid:before {
-content: "\e90d";
+  content: "\e911";
 }
 .si-pandas:before {
-content: "\e90e";
+  content: "\e912";
 }
 .si-papers-with-code:before {
-content: "\e90f";
+  content: "\e913";
 }
 .si-python:before {
-content: "\e910";
+  content: "\e914";
+}
+.si-python-alt:before {
+  content: "\e915";
 }
 .si-pytorch:before {
-content: "\e911";
+  content: "\e916";
+}
+.si-quora:before {
+  content: "\e917";
 }
 .si-researchgate:before {
-content: "\e912";
+  content: "\e918";
 }
 .si-researchgate-square:before {
-content: "\e913";
+  content: "\e919";
+}
+.si-scopus:before {
+  content: "\e91a";
 }
 .si-sklearn:before {
-content: "\e914";
+  content: "\e91b";
+}
+.si-sklearn-alt:before {
+  content: "\e91c";
 }
 .si-tensorflow:before {
-content: "\e915";
+  content: "\e91d";
+}
+.si-twitter:before {
+  content: "\e91e";
 }
