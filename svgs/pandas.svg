@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916666 5.2916666"
+   version="1.1"
+   id="svg274"
+   xml:space="preserve"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="pandas.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview276"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="-2.8749999"
+     inkscape:cy="-1.4999999"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showborder="true"><inkscape:grid
+       type="xygrid"
+       id="grid561"
+       originx="0"
+       originy="0" /></sodipodi:namedview><defs
+     id="defs271"><style
+       id="style432">.cls-1{fill:#130754;}.cls-2{fill:#ffca00;}.cls-3{fill:#e70488;}</style></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       id="rect450"
+       style="fill:#000000;stroke-width:0.0192049"
+       class="cls-1"
+       d="M 3.5138052,0.52916665 V 3.7223576 H 3.9764484 V 0.52916665 Z M 2.0582831,0.77939353 V 1.7400138 H 2.5209263 V 0.77939302 Z M 1.3152182,1.5693079 v 3.193192 H 1.7778993 V 1.5693074 Z m 1.4709386,0.00115 V 2.5310802 H 3.2488001 V 1.5704587 Z M 2.0582831,2.0204244 v 0.453228 H 2.5209263 V 2.020424 Z m 0,0.7322623 V 3.7133065 H 2.5209263 V 2.7526864 Z m 0.7278737,0.058779 v 0.453227 H 3.2488001 V 2.8114654 Z m 0,0.7338002 v 0.9606582 h 0.4626433 v -0.96066 z" /></g></svg>
