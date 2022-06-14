@@ -5,7 +5,7 @@
 
 ### Changed
 - Removed some icons.
-- 
+
 ## v1.0.1 - June 12, 2022
 ### Added
 - Added ```crossref``` icon.
