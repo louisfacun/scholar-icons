@@ -1,3 +1,7 @@
 .container {
     max-width: 900px!important;
 }
+
+span {
+    font-family: 'Consolas';
+}

@@ -43,96 +43,261 @@
 
 .si-10x { font-size: 10em; }
 
-.si-acm:before {
+.si-academia:before {
   content: "\e900";
 }
-.si-arxiv:before {
+.si-academia-square:before {
   content: "\e901";
 }
-.si-crossref:before {
+.si-acm:before {
   content: "\e902";
 }
-.si-devto:before {
+.si-arxiv:before {
   content: "\e903";
 }
-.si-doi:before {
+.si-citavi:before {
   content: "\e904";
 }
-.si-facebook:before {
+.si-codecademy:before {
   content: "\e905";
 }
-.si-github:before {
+.si-coursera:before {
   content: "\e906";
 }
-.si-google-scholar:before {
+.si-crossref:before {
   content: "\e907";
 }
-.si-ieee:before {
+.si-dblp:before {
   content: "\e908";
 }
-.si-ieee-alt:before {
+.si-deeplearning-ai:before {
   content: "\e909";
 }
-.si-kaggle:before {
+.si-degree-bs:before {
   content: "\e90a";
 }
-.si-kaggle-alt:before {
+.si-degree-ma:before {
   content: "\e90b";
 }
-.si-keras:before {
+.si-degree-mba:before {
   content: "\e90c";
 }
-.si-linkedin:before {
+.si-degree-md:before {
   content: "\e90d";
 }
-.si-medium:before {
+.si-degree-ms:before {
   content: "\e90e";
 }
-.si-numpy:before {
+.si-degree-phd:before {
   content: "\e90f";
 }
-.si-opencv:before {
+.si-devto:before {
   content: "\e910";
 }
-.si-orcid:before {
+.si-doaj:before {
   content: "\e911";
 }
-.si-pandas:before {
+.si-doi:before {
   content: "\e912";
 }
-.si-papers-with-code:before {
+.si-edx:before {
   content: "\e913";
 }
-.si-python:before {
+.si-elsevier:before {
   content: "\e914";
 }
-.si-python-alt:before {
+.si-endnote:before {
   content: "\e915";
 }
-.si-pytorch:before {
+.si-endnote-square:before {
   content: "\e916";
 }
-.si-quora:before {
+.si-facebook:before {
   content: "\e917";
 }
-.si-researchgate:before {
+.si-freecodecamp:before {
   content: "\e918";
 }
-.si-researchgate-square:before {
+.si-futurelearn:before {
   content: "\e919";
 }
-.si-scopus:before {
+.si-github:before {
   content: "\e91a";
 }
-.si-sklearn:before {
+.si-google-scholar:before {
   content: "\e91b";
 }
-.si-sklearn-alt:before {
+.si-hackernoon:before {
   content: "\e91c";
 }
-.si-tensorflow:before {
+.si-ieee:before {
   content: "\e91d";
 }
-.si-twitter:before {
+.si-ieee-alt:before {
   content: "\e91e";
+}
+.si-iet:before {
+  content: "\e91f";
+}
+.si-image-sc:before {
+  content: "\e920";
+}
+.si-impact-story:before {
+  content: "\e921";
+}
+.si-jstor:before {
+  content: "\e922";
+}
+.si-kaggle:before {
+  content: "\e923";
+}
+.si-keras:before {
+  content: "\e924";
+}
+.si-khan-academy:before {
+  content: "\e925";
+}
+.si-latex:before {
+  content: "\e926";
+}
+.si-latex-alt:before {
+  content: "\e927";
+}
+.si-linkedin:before {
+  content: "\e928";
+}
+.si-mathworks:before {
+  content: "\e929";
+}
+.si-medium:before {
+  content: "\e92a";
+}
+.si-mendeley:before {
+  content: "\e92b";
+}
+.si-numpy:before {
+  content: "\e92c";
+}
+.si-nwo-nl:before {
+  content: "\e92d";
+}
+.si-open-access:before {
+  content: "\e92e";
+}
+.si-opencv:before {
+  content: "\e92f";
+}
+.si-openscience-nl:before {
+  content: "\e930";
+}
+.si-orcid:before {
+  content: "\e931";
+}
+.si-pandas:before {
+  content: "\e932";
+}
+.si-papers-with-code:before {
+  content: "\e933";
+}
+.si-piazza:before {
+  content: "\e934";
+}
+.si-piazza-square:before {
+  content: "\e935";
+}
+.si-publons:before {
+  content: "\e936";
+}
+.si-publons-square:before {
+  content: "\e937";
+}
+.si-pubmed:before {
+  content: "\e938";
+}
+.si-python:before {
+  content: "\e939";
+}
+.si-pytorch:before {
+  content: "\e93a";
+}
+.si-quora:before {
+  content: "\e93b";
+}
+.si-reddit:before {
+  content: "\e93c";
+}
+.si-researchgate:before {
+  content: "\e93d";
+}
+.si-researchgate-square:before {
+  content: "\e93e";
+}
+.si-scopus:before {
+  content: "\e93f";
+}
+.si-scribd:before {
+  content: "\e940";
+}
+.si-se-academia:before {
+  content: "\e941";
+}
+.si-se-ai:before {
+  content: "\e942";
+}
+.si-se-ask-ubuntu:before {
+  content: "\e943";
+}
+.si-semantic-scholar:before {
+  content: "\e944";
+}
+.si-se-mathematics:before {
+  content: "\e945";
+}
+.si-se-superuser:before {
+  content: "\e946";
+}
+.si-skillshare:before {
+  content: "\e947";
+}
+.si-sklearn:before {
+  content: "\e948";
+}
+.si-springer:before {
+  content: "\e949";
+}
+.si-springer-nature:before {
+  content: "\e94a";
+}
+.si-ssrn:before {
+  content: "\e94b";
+}
+.si-stack-exchange:before {
+  content: "\e94c";
+}
+.si-stack-overflow:before {
+  content: "\e94d";
+}
+.si-surf-nl:before {
+  content: "\e94e";
+}
+.si-tensorflow:before {
+  content: "\e94f";
+}
+.si-twitter:before {
+  content: "\e950";
+}
+.si-udacity:before {
+  content: "\e951";
+}
+.si-udemy:before {
+  content: "\e952";
+}
+.si-xing:before {
+  content: "\e953";
+}
+.si-zenodo:before {
+  content: "\e954";
+}
+.si-zotero:before {
+  content: "\e955";
 }
