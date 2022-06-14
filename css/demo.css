@@ -2,6 +2,15 @@
     max-width: 900px!important;
 }
 
-span {
-    font-family: 'Consolas';
+body {
+    font-family: 'Consolas'!important;
 }
+
+.icon-prev:hover {
+    background: #0dcaf0!important;
+    /*cursor: pointer;
+}
+ /*
+.icon-name-prev {
+    color: #718093!important;
+}*/
