@@ -1,8 +1,8 @@
 # Scholar Icons
 Specialized font icon set for websites of scholars.
 
-# Usage
-## Install from npm
+## Usage
+### Install from npm
 ```
 npm install scholar-icons
 ```
@@ -14,13 +14,13 @@ Then choose your icon:
 ```html
 <i class="si si-arxiv si-2x"></i>
 ```
-# Request
+## Request
 Open a new issue at https://github.com/louisfacun/scholar-icons/issues
 
-# License
+## License
 - Fonts  – SIL OFL 1.1 License (http://scripts.sil.org/OFL)
 - Codes – MIT License (https://opensource.org/licenses/mit-license.html)
 - Icons – CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
 
-# Author
+## Author
 Louis Facun ([@louisfacun](https://github.com/louisfacun))
