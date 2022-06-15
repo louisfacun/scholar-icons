@@ -6,7 +6,6 @@ Specialized font icon set for websites of scholars.
 ```
 npm i scholar-icons
 ```
-
 ### Install from composer
 ```
 composer require louisfacun/scholar-icons
