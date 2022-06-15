@@ -1,0 +1,26 @@
+{
+  "name": "scholar-icons",
+  "version": "1.0.2",
+  "description": "Specialized font icon set for websites of scholars.",
+  "author": "Louis Facun",
+  "license": "(OFL-1.1 AND MIT AND CC-BY-4.0)",
+  "homepage": "https://github.com/louisfacun/scholar-icons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louisfacun/scholar-icons.git"
+  },
+  "keywords": [
+    "scholar",
+    "icons",
+    "webfont",
+    "research",
+    "academic",
+    "academia"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/louisfacun/scholar-icons/issues"
+  }
+}

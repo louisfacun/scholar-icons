@@ -1,4 +1,9 @@
-@font-face {
+/*
+ * Scholar Icons v1.0.2 by @louisfacun – https://github.com/louisfacun/scholar-icons
+ * License – Fonts: SIL OFL 1.1, Codes: MIT License, Icons: CC BY 4.0
+ */
+ 
+ @font-face {
     font-family: 'Scholar Icons';
     src:url('../fonts/scholar-icons.eot');
     src:url('../fonts/scholar-icons.eot') format('embedded-opentype'),

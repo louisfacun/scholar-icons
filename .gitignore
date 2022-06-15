@@ -1,3 +1,6 @@
-Illustrator.ai
-icomoon.zip
-Untitled.ipynb
+svgs-release
+*.ai
+*.zip
+*.ipynb
+.ipynb_checkpoints
+style.css
