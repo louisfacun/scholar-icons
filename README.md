@@ -1,6 +1,14 @@
 # Scholar Icons
-Specialized font icon set for websites of scholars.
+Scholar Icons is a specialized font icon set for websites of scholars. 
 
+
+## Motivation
+This is created to add icons that is not commonly found on the Font Awesome icons. Thus, this is an extension of Font Awesome since it uses:
+- Similar SVG icon grid ```20x16```.
+- Similar CCS classes ```si``` ```si-brand``` ```si-2x```.
+- Similar license.
+
+I hoped to add more brand and non-brand icons specific to academia.
 ## Usage
 ### Install from npm
 ```
