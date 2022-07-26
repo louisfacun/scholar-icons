@@ -4,3 +4,4 @@ svgs-release
 *.ipynb
 .ipynb_checkpoints
 style.css
+composer.phar

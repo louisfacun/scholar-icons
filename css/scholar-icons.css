@@ -43,11 +43,72 @@
 .si-7x { font-size: 7em; }
 
 .si-8x { font-size: 8em; }
-
-.si-9x { font-size: 9em; }
-
-.si-10x { font-size: 10em; }
-
+.si-arduino:before {
+  content: "\e956";
+}
+.si-biorxiv:before {
+  content: "\e957";
+}
+.si-cplusplus:before {
+  content: "\e958";
+}
+.si-csharp:before {
+  content: "\e959";
+}
+.si-css3:before {
+  content: "\e95a";
+}
+.si-debian:before {
+  content: "\e95b";
+}
+.si-debian-diversity:before {
+  content: "\e95c";
+}
+.si-dotnet:before {
+  content: "\e95d";
+}
+.si-gitlab:before {
+  content: "\e95e";
+}
+.si-hackerearth:before {
+  content: "\e95f";
+}
+.si-hackerrank:before {
+  content: "\e960";
+}
+.si-hal:before {
+  content: "\e961";
+}
+.si-html5:before {
+  content: "\e962";
+}
+.si-lattes:before {
+  content: "\e963";
+}
+.si-leetcode:before {
+  content: "\e964";
+}
+.si-medrxiv:before {
+  content: "\e965";
+}
+.si-mysql:before {
+  content: "\e966";
+}
+.si-php:before {
+  content: "\e967";
+}
+.si-r:before {
+  content: "\e968";
+}
+.si-sas:before {
+  content: "\e969";
+}
+.si-tableau:before {
+  content: "\e96a";
+}
+.si-the-conversation:before {
+  content: "\e96b";
+}
 .si-academia:before {
   content: "\e900";
 }
