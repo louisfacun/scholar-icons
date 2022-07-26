@@ -1,4 +1,8 @@
 # Changelog
+## v1.0.3 - July 26, 2022
+### Added
+- Added ```arduino``` ```biorxiv``` ```cplusplus``` ```csharp``` ```css3``` ```debian-diversity``` ```debian``` ```dotnet``` ```gitlab``` ```hackerearth``` ```hackerrank``` ```hal``` ```html5``` ```lattes``` ```leetcode``` ```medrxiv``` ```mysql``` ```php``` ```r``` ```sas``` ```tableau``` ```the-conversation```
+
 ## v1.0.2 - June 14, 2022
 ### Added
 - Added ```academia-square``` ```academia``` ```citavi``` ```codecademy``` ```coursera``` ```dblp``` ```deeplearning-ai``` ```degree-bs``` ```degree-ma``` ```degree-mba``` ```degree-md``` ```degree-ms``` ```degree-phd``` ```doaj``` ```edx``` ```elsevier``` ```endnote-square``` ```endnote``` ```freecodecamp``` ```futurelearn``` ```hackernoon``` ```iet``` ```image-sc``` ```impact-story``` ```jstor``` ```khan-academy``` ```latex-alt``` ```latex``` ```mathworks``` ```mendeley``` ```nwo-nl``` ```open-access``` ```opensience-nl``` ```piazza-square``` ```piazza``` ```publons-square``` ```publons``` ```pubmed``` ```pytorch``` ```reddit``` ```scribd``` ```se-academia``` ```se-ai``` ```se-ask-ubuntu``` ```se-mathematics``` ```se-superuser``` ```semantic-scholar``` ```skillshare``` ```springer-nature``` ```springer``` ```ssrn``` ```stack-exchange``` ```stack-overflow``` ```surf-nl``` ```udacity``` ```udemy``` ```xing``` ```zenodo``` ```zotero``` icons.
