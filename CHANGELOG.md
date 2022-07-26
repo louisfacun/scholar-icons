@@ -1,7 +1,7 @@
 # Changelog
 ## v1.0.3 - July 26, 2022
 ### Added
-- Added ```arduino``` ```biorxiv``` ```cplusplus``` ```csharp``` ```css3``` ```debian-diversity``` ```debian``` ```dotnet``` ```gitlab``` ```hackerearth``` ```hackerrank``` ```hal``` ```html5``` ```lattes``` ```leetcode``` ```medrxiv``` ```mysql``` ```php``` ```r``` ```sas``` ```tableau``` ```the-conversation```
+- Added ```arduino``` ```biorxiv``` ```cplusplus``` ```csharp``` ```css3``` ```debian-diversity``` ```debian``` ```dotnet``` ```gitlab``` ```hackerearth``` ```hackerrank``` ```hal``` ```html5``` ```lattes``` ```leetcode``` ```medrxiv``` ```mysql``` ```php``` ```r``` ```sas``` ```tableau``` ```the-conversation``` icons.
 
 ## v1.0.2 - June 14, 2022
 ### Added
