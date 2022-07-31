@@ -43,4 +43,4 @@ Open a new issue at https://github.com/louisfacun/scholar-icons/issues
 All brand icons are trademarks of their respective owners.
 
 ## Author
-Louis Facun ([@louisfacun](https://github.com/louisfacun))
+Louis Philippe Facun ([@louisfacun](https://github.com/louisfacun))
